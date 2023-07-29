@@ -1,0 +1,6 @@
+git init
+git status
+a
+b
+c
+d
